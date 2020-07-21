@@ -1,1 +1,12 @@
-This is the template for my thesis
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# (Tentative) Reinforcement Learning in the language learning
+--------
+
+TODO 
+
+- [x] Create thesis template with bookdown
+- [ ] Write chapter about language, information theory and the foundations of Levenshtein distance
+- [ ] Write chapter about sound, voice analysis
+- [ ] Write chapter about reinforcement learning
+- [ ] ...
