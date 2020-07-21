@@ -1,3 +1,6 @@
 # R files
-
 .Rproj.user
+
+
+# Output files
+_book
