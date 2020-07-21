@@ -1,0 +1,15 @@
+--- 
+title: "(Tentative) Reinforcement Learning in language learning"
+author: "Victor Augusto Samayoa Donado"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+citation-style: chicago-author-date-16th-edition.csl
+link-citations: yes
+description: "Thesis for the M.Sc. in Data Science"
+---
+
+# Preface
+
+This is the preface
